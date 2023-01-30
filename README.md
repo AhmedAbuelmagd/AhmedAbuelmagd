@@ -1,6 +1,6 @@
 ### Hi there 👋!
 
-I'm **Ahmed Abuelmagd**, I'm a **Software Engineer** from **Estshara**, in Egypt. I've been developing apps for **more than 5 years**. During this time I've worked on many types of projects such as B2C and B2B apps ...
+I'm **Ahmed Abuelmagd**, I'm a **Software Engineer** from **Egypt**, I've been developing apps for **more than 5 years**. During this time I've worked on many types of projects such as B2C and B2B apps ...
 
 
 <!--
