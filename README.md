@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hi there 👋!
+
+I'm **Ahmed Abuelmagd**, I'm a **Software Engineer** from **Estshara**, in Egypt. I've been developing apps for **more than 5 years**. During this time I've worked on many types of projects such as B2C and B2B apps ...
+
 
 <!--
 **AhmedAbuelmagd/AhmedAbuelmagd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
